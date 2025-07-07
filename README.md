@@ -1,6 +1,6 @@
 # Legal Tokenizer & Dataset Builder for Corporate LLMs
 
-This project demonstrates how to build a scalable pipeline that ingests legal case files—such as business contracts, clauses, and company-to-company rulings—and converts them into tokenized datasets ready for training a company-owned Large Language Model (LLM).
+This project demonstrates how to build a scalable pipeline that ingests legal case files such as business contracts, clauses, and company-to-company rulings and converts them into tokenized datasets ready for training a company-owned Large Language Model (LLM).
 
 ---
 
@@ -140,4 +140,4 @@ Use the `notebooks/token_stats.ipynb` notebook to:
 
 ## 👤 Author
 
-*Generative AI Engineer Portfolio Project – Designed to show readiness for tokenization, dataset generation, and pretraining workflows in legal AI environments.*
+By:- Anurag Kacherikar

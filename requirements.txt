@@ -1,0 +1,10 @@
+# requirements.txt
+transformers==4.40.0
+datasets==2.18.0
+pandas==2.2.2
+matplotlib==3.8.4
+seaborn==0.13.2
+tqdm==4.66.4
+ipykernel==6.29.4
+jupyterlab==4.1.6
+python-dotenv==1.0.1
